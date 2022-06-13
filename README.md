@@ -1,2 +1,2 @@
 # Drum-Kit 
-On going to website you can play sound of different instruments in a drum kit.
+It is a website where you can play sounds of different instruments in a drum kit.
